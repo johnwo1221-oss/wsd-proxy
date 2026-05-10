@@ -1,0 +1,12 @@
+{
+  "name": "wsd-proxy",
+  "version": "1.0.0",
+  "description": "WSD 停水通告 Proxy for 蔚藍東岸",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
